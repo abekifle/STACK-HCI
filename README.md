@@ -1,1 +1,1 @@
-# STACK-HCI
+# STACK-HCI materials that are Partner-ready
